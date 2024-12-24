@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'merriweatherblack';
-    src: url('/font/merriweather-black-webfont.woff2') format('woff2'),
-         url('/font/merriweather-black-webfont.woff') format('woff');
+    src: url('font/merriweather-black-webfont.woff2') format('woff2'),
+         url('font/merriweather-black-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -16,8 +16,8 @@
 
 @font-face {
     font-family: 'merriweatherblack_italic';
-    src: url('/font/merriweather-blackitalic-webfont.woff2') format('woff2'),
-         url('/font/merriweather-blackitalic-webfont.woff') format('woff');
+    src: url('font/merriweather-blackitalic-webfont.woff2') format('woff2'),
+         url('font/merriweather-blackitalic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -28,8 +28,8 @@
 
 @font-face {
     font-family: 'merriweatherbold';
-    src: url('/font/merriweather-bold-webfont.woff2') format('woff2'),
-         url('/font/merriweather-bold-webfont.woff') format('woff');
+    src: url('font/merriweather-bold-webfont.woff2') format('woff2'),
+         url('font/merriweather-bold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -40,8 +40,8 @@
 
 @font-face {
     font-family: 'merriweatherbold_italic';
-    src: url('/font/merriweather-bolditalic-webfont.woff2') format('woff2'),
-         url('/font/merriweather-bolditalic-webfont.woff') format('woff');
+    src: url('font/merriweather-bolditalic-webfont.woff2') format('woff2'),
+         url('font/merriweather-bolditalic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -52,8 +52,8 @@
 
 @font-face {
     font-family: 'merriweatheritalic';
-    src: url('/font/merriweather-italic-webfont.woff2') format('woff2'),
-         url('/font/merriweather-italic-webfont.woff') format('woff');
+    src: url('font/merriweather-italic-webfont.woff2') format('woff2'),
+         url('font/merriweather-italic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -64,8 +64,8 @@
 
 @font-face {
     font-family: 'merriweatherlight';
-    src: url('/font/merriweather-light-webfont.woff2') format('woff2'),
-         url('/font/merriweather-light-webfont.woff') format('woff');
+    src: url('font/merriweather-light-webfont.woff2') format('woff2'),
+         url('font/merriweather-light-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -76,8 +76,8 @@
 
 @font-face {
     font-family: 'merriweatherlight_italic';
-    src: url('/font/merriweather-lightitalic-webfont.woff2') format('woff2'),
-         url('/font/merriweather-lightitalic-webfont.woff') format('woff');
+    src: url('font/merriweather-lightitalic-webfont.woff2') format('woff2'),
+         url('font/merriweather-lightitalic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -88,8 +88,8 @@
 
 @font-face {
     font-family: 'merriweatherregular';
-    src: url('/font/merriweather-regular-webfont.woff2') format('woff2'),
-         url('/font/merriweather-regular-webfont.woff') format('woff');
+    src: url('font/merriweather-regular-webfont.woff2') format('woff2'),
+         url('font/merriweather-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
