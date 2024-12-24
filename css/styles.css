@@ -1,3 +1,13 @@
+@font-face {
+  font-family: 'vampire_warsregular';
+  src: url('/font/vampire_wars-webfont.woff2') format('woff2'),
+       url('/font/vampire_wars-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
 /* https://www.joshwcomeau.com/css/custom-css-reset/ */
 /* 1. Use a more-intuitive box-sizing model */
 *, *::before, *::after {
